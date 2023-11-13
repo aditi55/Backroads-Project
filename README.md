@@ -6,7 +6,6 @@ Fully Responsive UI/UX Travel Company Website with proper Navigation and Home, S
 - Responsive design for various devices.
 - Home page showcasing different travel destinations.
 - Detailed pages for each destination.
-- Booking and reservation functionality (if implemented).
 
 ## Technologies Used
 
